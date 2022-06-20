@@ -3,3 +3,5 @@ This is something I created with the help of some devs on discord. This was made
 
 # How to use
 Pretty self-explanatory
+
+# This is in progress right now i will finish this in a bit. Right now, theoretically it should be working  ( might have missed something) but idk rn.
